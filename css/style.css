@@ -25,6 +25,21 @@ h1 {
     border: 1px solid snow;
 }
 
+.game-instructions {
+    position: relative;
+    color: snow;
+    left: 8rem;
+    top: 0px;
+}
+
+.start-button {
+    position: relative;
+    color: snow;
+    top: 9rem;
+    left: 16rem;
+    cursor: pointer;
+}
+
 .player-shooter {
     position: relative;
     height: 60px;
